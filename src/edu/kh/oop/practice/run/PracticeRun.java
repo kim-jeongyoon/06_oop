@@ -8,8 +8,8 @@ public class PracticeRun {
 
 		BookService bkk = new BookService();
 		
+		bkk.practice();
+		
 	}
 
 }
-
-
